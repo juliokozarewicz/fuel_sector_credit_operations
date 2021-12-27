@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: FUEL SECTOR CREDIT OPERATIONS (R$ MILLION) (level)
+Mean: 61535.97
+Median: 64805.00
+Sample std: 17680.04
+Variance: 312583681.01
+Lowest: 24870.00
+Highest: 90932.00
+--------------------------------------------------

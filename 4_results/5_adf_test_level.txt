@@ -1,0 +1,13 @@
+--------------------------------------------------
+ADF Results (level):
+
+Variable: FUEL SECTOR CREDIT OPERATIONS (R$ MILLION)
+ADF Test: -1.797209
+P-value: 0.706102
+Lags: 0
+Observations: 116
+Critical values:
+  1%: -4.039013
+  5%: -3.449039
+  10%: -3.149646
+--------------------------------------------------
